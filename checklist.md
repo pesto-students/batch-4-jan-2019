@@ -1,6 +1,6 @@
 # Week 1 
 ## Day 1
-- [ ] Read the [README](readme.md) and sign the compliance PR.
+- [X] Read the [README](readme.md) and sign the compliance PR.
 - [ ] For your Portfolio Project, bring 4 different substantial designs by next Monday.
 - [ ] Post this as task in #general channel of Pesto Students Slack.
 - [ ] Complete git exercises of katacode. 
